@@ -20,5 +20,5 @@
 - Sleep hours and attendance percentage showed relatively weak relationships with exam scores.
 
 ## Files
-- Student Performance Analysis.ipynb -> Main notebook
+- Student_Performance_Analysis.ipynb -> Main notebook
 - student_exam_scores.csv -> Dataset used for analysis
