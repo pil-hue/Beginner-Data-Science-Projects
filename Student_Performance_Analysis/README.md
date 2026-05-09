@@ -25,3 +25,5 @@
 
 ## Dataset Source
 [Student Exam Scores dataset](https://www.kaggle.com/datasets/mirzayasirabdullah07/student-exam-scores-dataset/data)
+
+[Open in Colab](https://colab.research.google.com/drive/1cJ-8E_wbi4U2lNiXUIgY9PkwTKZdzI1K?usp=sharing)
