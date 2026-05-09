@@ -22,3 +22,6 @@
 ## Files
 - Student_Performance_Analysis.ipynb -> Main notebook
 - student_exam_scores.csv -> Dataset used for analysis
+
+## Dataset Source
+[Student Exam Scores dataset](https://www.kaggle.com/datasets/mirzayasirabdullah07/student-exam-scores-dataset/data)
