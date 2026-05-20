@@ -16,7 +16,7 @@
 
 ## Files
 - [Spotify_Songs_Analysis.ipynb](./Spotify_Songs_Analysis.ipynb) -> Main notebook
-- [spotify_songs.csv](./spotify_songs.csv) -> Dataset used
+- [spotify_songs[1].csv](./spotify_songs[1].csv) -> Dataset used
 
 ## Dataset Source
 - [30000 Spotify Songs](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs)
